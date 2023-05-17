@@ -2,3 +2,4 @@ test 123
 test 4
 
 tekst testowego branchu
+zmiana w git
