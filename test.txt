@@ -4,3 +4,5 @@ test 4
 tekst testowego branchu
 
 następna linia
+
+jeszcze nastepna linia 
