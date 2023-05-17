@@ -2,3 +2,12 @@ test 123
 test 4
 
 tekst testowego branchu
+
+
+następna linia
+
+jeszcze nastepna linia 
+
+zmiana w git
+Test nowago branch 2
+
