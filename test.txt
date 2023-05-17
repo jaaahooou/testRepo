@@ -3,3 +3,4 @@ test 4
 
 tekst testowego branchu
 zmiana w git
+Test nowago branch 2
